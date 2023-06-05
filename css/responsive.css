@@ -1,0 +1,345 @@
+@media(max-width: 1196px){
+	.container{
+		max-width: 1099px;
+	}
+	.mobilemenu .menu{
+		display: none;
+	}
+}
+
+@media(max-width: 1102px){
+	.container{
+		max-width: 1030px;
+	}
+	.mobilemenu .menu{
+		display: none;
+	}
+	.menutype h4{
+		font-size: 20px;
+	}
+	.food-menu h4{
+		font-size: 20px;
+	}
+	.menu-card{
+		padding: 20px 15px;
+	}
+}
+@media(max-width: 1038px){
+	.container {
+		max-width: 949px;
+	}
+	.menutype h4 {
+		font-size: 18px;
+	}
+	.food-menu h4{
+		font-size: 18px;
+	}
+	.menu-card {
+		padding: 7px 15px;
+	}
+	.sub-heading{
+		font-size: 54px;
+	}
+}
+@media(max-width: 991px){
+	.container{
+		max-width: 891px;
+	}
+	.mobilemenu .menu{
+		display: none;
+	}
+	.b-content h1 {
+		font-size: 50px;
+	}
+	.sub-head {
+		font-size: 28px;
+	}
+	.sub-heading {
+		font-size: 51px;
+	}
+	.menutype h4 {
+		font-size: 20px;
+		margin: 0;
+	}
+	.food-menu h4{
+		font-size: 16px;
+	}
+	.card-content h4 {
+		font-size: 20px;
+	}
+	.para {
+		font-size: 17px;
+	}
+}
+@media(max-width: 767px){
+	.container{
+		max-width: 660px;
+	}
+	.sec-menu{
+		display: none;
+	}
+	#button{
+		width: 40px;
+    	height: 40px;
+	}
+	#button::after{
+		font-size: 23px;
+    	line-height: 43px;
+	}
+	.menu .menubtn{
+		width: 40px;
+		height: 40px;
+	}
+	.review {
+		height: 276px;
+	}
+	.review-slider .slick-dots{
+		display: none !important;
+	}
+	.right-side{
+		display: none;
+	}
+	.mobilemenu .menu{
+		display: inline-block;
+		z-index: 99;
+	}
+	.sub-head{
+		display: none;
+	}
+	.banner-para{
+		display: none;
+	}
+	.about-content {
+		text-align: center;
+	}
+	.about-heading{
+		font-size: 30px;
+	}
+	.card-content {
+		text-align: center;
+	}
+	.review-section {
+		height: 506px;
+	}
+	.heading{
+		font-size: 35px;
+	}
+	.review-heading{
+		font-size: 35px;
+	}
+}
+@media(max-width: 576px){
+	.container{
+		max-width: 520px;
+	}
+	.b-content h1 {
+		font-size: 40px;
+	}
+	.main-btn{
+		padding: 5px 14px;
+	}
+	.heading{
+		font-size: 30px;
+	}
+	.about-heading {
+		font-size: 26px;
+	}
+	.name li {
+		font-size: 19px;
+	}
+	.price li {
+		font-size: 19px;
+	}
+	.menutype h4 {
+		font-size: 19px;
+	}
+	.para {
+		font-size: 16px;
+	}
+	.menu .menubtn{
+		width: 30px;
+		height: 30px;
+	}
+	#button{
+		width: 30px;
+    	height: 30px;
+	}
+	#button::after{
+		font-size: 16px;
+    	line-height: 33px;
+	}
+	.review-section {
+		height: 461px;
+	}
+	.space{
+		padding-top: 0;
+	}
+	.menuafter-section{
+		padding-top: 50px;
+	}
+}
+@media(max-width: 576px){
+	.accordian-section{
+		height: 565px;
+	}
+}
+@media(max-width: 508px){
+	.name li {
+		font-size: 18px;
+	}
+	.price li {
+		font-size: 18px;
+	}
+	.menutype h4 {
+		font-size: 18px;
+	}
+	.fancy-box {
+		padding: 16px;
+	}
+}
+@media(max-width: 504px){
+	.accordian-section{
+		height: 586px;
+	}
+}
+@media(max-width: 503px){
+	.accordian-section{
+		height: 647px;
+	}
+}
+@media(max-width: 438px){
+	.accordian-section{
+		height: 690px;
+	}
+}
+@media(max-width: 428px){
+	.accordian-section{
+		height: 738px;
+	}
+}
+@media(max-width: 412px){
+	.container{
+		padding: 0 15px;
+	}
+	.b-content h1 {
+		font-size: 30px;
+	}
+	.main-btn {
+		padding: 0px 3px;
+	}
+	.main-btn a{
+		font-size: 14px;
+	}
+	.heading {
+		font-size: 25px;
+	}
+	.item {
+		width: 60%;
+	}
+	.about-heading {
+		font-size: 24px;
+	}
+	.paragraph{
+		font-size: 14px;
+	}
+	.sec-btn a{
+		font-size: 14px;
+	}
+	.sec-btn{
+		padding: 1px 12px;
+	}
+	.fancy-box {
+		padding: 10px;
+	}
+	.name li {
+		font-size: 17px;
+	}
+	.price li {
+		font-size: 17px;
+	}
+	.sub-heading {
+		font-size: 46px;
+	}
+	.para {
+		font-size: 14px;
+	}
+	.card-para{
+		font-size: 14px;
+	}
+	.review-heading{
+		font-size: 25px;
+	}
+	.review-content{
+		padding: 0 10px;
+		font-size: 14px;
+	}
+	.acco-con{
+		font-size: 14px;
+		letter-spacing: 0;
+	}
+		.accordian-section{
+			height: 539px;
+		}
+		.icon i {
+			font-size: 20px;
+		}
+	.email::placeholder{
+		font-size: 14px;
+	}
+	.subscribe{
+		font-size: 14px;
+	}
+	.email{
+		padding: 5px;
+	}
+	.copy{
+		font-size: 14px;
+	}
+}
+@media(max-width: 375px){
+	.accordian-section {
+		height: 571px;
+	}
+}
+@media(max-width: 373px){
+	.accordian-section {
+		height: 626px;
+	}
+}
+@media(max-width: 351px){
+	.name li {
+		font-size: 14px;
+	}
+	.price li {
+		font-size: 14px;
+	}
+	.menutype h4 {
+		font-size: 16px;
+	}
+	.sub-heading {
+		font-size: 40px;
+	}
+}
+@media(max-width: 320px){
+	.menutype h4 {
+		font-size: 15px;
+	}
+	.name li {
+		font-size: 13px;
+	}
+	.price li {
+		font-size: 13px;
+	}
+	.sub-heading {
+		font-size: 36px;
+	}
+	.accordian-section {
+		height: 643px;
+	}
+	.review{
+		height: 231px;
+	}
+	.review-section {
+		height: 426px;
+	}
+}
